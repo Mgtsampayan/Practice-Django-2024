@@ -1,0 +1,1 @@
+console.log('This is My First JS on this Django 2024')
